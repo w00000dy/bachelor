@@ -1,6 +1,8 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/w00000dy/bachelor_web
+	branch = main
 [submodule "esp32"]
 	path = esp32
 	url = https://github.com/w00000dy/bachelor_esp32
+	branch = main
